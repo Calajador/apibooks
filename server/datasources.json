@@ -1,0 +1,12 @@
+{
+  "db": {
+    "port": 47052,
+    "url": "mongodb+srv://Curro:manolito99@pruebas-n1npz.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "Pruebas",
+    "password": "manolito99",
+    "name": "db",
+    "user": "Curro",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
